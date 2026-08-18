@@ -1,6 +1,6 @@
 # Kinger Ukagaka/Ghost
 
-🌎 ENG [Read in English](docs/README_ENG.md)
+🌎 ENG [Read in English](docs/README_ES.md)
 
 ## 📖 **Leer con Atención**
 
